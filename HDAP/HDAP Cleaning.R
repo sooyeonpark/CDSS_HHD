@@ -290,4 +290,5 @@ cat("Cleaning up environment...\n")
 rm(hdap_no_start_date_duplicate,hdap_no_start_date,hdap_no_start_date_unique,hdap_duplicate_data,
    race,eth,gender,unknown,sex,so,target,vet,mf,ls,previous_stay,homeless_count,homeless_length,
    disabl_type,denial_reason,exit,hdap_duplicate_data_same_period,na,min_na,index,hdap_new_data)
+
 cat("Process completed.\n")
